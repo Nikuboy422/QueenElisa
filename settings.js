@@ -19,7 +19,7 @@ module.exports = {
 
 Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   ALIVE_MEDIA: 'https://telegra.ph/file/d842677f522b6bef4dfe6.jpg',
-  MONGODB_URL: '', 
+  MONGODB_URL: 'https://cloud.mongodb.com/v2/66cb88e39a56ec48364de525?registrationData=%7B"anonymousId"%3A"4af600c9-b0d8-456a-b030-5d60716a697c"%2C"csrfTime"%3A"1724614884344"%2C"csrfToken"%3A"672a6fb2df247d1d0dabda3c3482b4af9b9faba5a46f5e8cd20b01d3c4e50954-092616e7deafe4e08fe94f04e60b620b39300cb87f0727602d9519d541afa2d9dd91d2245a7c2be865af3272bcd3394054b6e048f57f9f29c220ce1318c05092"%2C"email"%3A"kushanashwika422%40gmail.com"%2C"firstName"%3A"Kushan"%2C"groupId"%3A"66cb88e39a56ec48364de525"%2C"initialLogin"%3A"true"%2C"needsMfa"%3A"false"%2C"orgId"%3A"66cb88e39a56ec48364de4ee"%2C"orgName"%3A"Kushan%27s Org - 2024-08-25"%2C"signupMethod"%3A"google"%2C"signupSource"%3A"Account"%2C"uId"%3A"66cb88e39a56ec48364de4ed"%2C"username"%3A"kushanashwika422%40gmail.com"%2C"isInviteFlow"%3Afalse%7D#/setup/personalization', 
   PREFIX: '.$&',
   LANGUAGE: 'EN',
   PORT: 3000,
